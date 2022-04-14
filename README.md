@@ -5,23 +5,6 @@ This is a documentation for 6.08 design exercise trivia game. This consists thre
 The demonstration video is linked below
 [demonstration video](https://youtu.be/Zf1zj-SdbLM)
 
-## Resources
-
-If you have any images, place them in a folder called `writeup_resources` in the top level of the folder. Then you can reference the images by simply using a relative path like I'm doing below:
-
-![An example test image](./writeup_resources/beaver.jpg)
-
-If you want to include code snippets it is easy:
-
-```cpp
-
-void int_adder(int x, int y){
-    return x+y; //cool
-}
-```
-
-A `README.md` is a markdown file which means it is written in Markdown, which is a super-lightweight way to create content that is widely used to document projects. It is a good skill to know.  If you need help learning markdown, there are tons of good resources such as [this](https://www.markdownguide.org/getting-started/).
-
 # 1. Overall Design Flow
 ## NOTE: You can change user name by changing `USER[]` in the code. 
 The LCD display mainly consists of four screens: 
